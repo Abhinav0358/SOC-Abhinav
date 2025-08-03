@@ -22,7 +22,7 @@ Here's how to get started:
 **First, grab the code:**
 ```bash
 git clone https://github.com/Abhinav0358/SOC-Abhinav.git
-cd SOC-Abhinav0358
+cd SOC-Abhinav
 ```
 
 **Set up a virtual environment** (trust me, you want this):
